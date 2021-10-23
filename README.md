@@ -14,7 +14,7 @@ composer create-project lukeraymonddowning/laravel-template
 
 The created application is configured with the following tools:
 
-- Pest PHP
-- Pest Parallel
-- PHP CS Fixer
-- LaraStan
+- [Pest PHP](https://pestphp.com)
+- [Pest Parallel](https://pestphp.com/docs/plugins/parallel)
+- [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+- [LaraStan](https://github.com/nunomaduro/larastan)
