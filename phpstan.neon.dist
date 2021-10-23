@@ -6,7 +6,6 @@ parameters:
     paths:
         - app
         - database
-        - routes
         - config
 
     level: max
