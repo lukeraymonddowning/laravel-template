@@ -9,16 +9,17 @@ $finder = PhpCsFixer\Finder::create()
 
 $rules = [
     '@Symfony' => true,
-    'phpdoc_no_empty_return' => false,
     'array_syntax' => ['syntax' => 'short'],
-    'yoda_style' => false,
     'concat_space' => ['spacing' => 'one'],
-    'not_operator_with_space' => false,
-    'php_unit_method_casing' => ['case' => 'snake_case'],
     'declare_strict_types' => true,
+    'final_class' => true,
+    'increment_style' => ['style' => 'post'],
+    'not_operator_with_space' => false,
+    'ordered_traits' => true,
+    'php_unit_method_casing' => ['case' => 'snake_case'],
+    'phpdoc_no_empty_return' => false,
+    'yoda_style' => false,
 ];
-
-$rules['increment_style'] = ['style' => 'post'];
 
 return (new PhpCsFixer\Config())
     ->setUsingCache(true)
