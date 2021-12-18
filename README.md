@@ -18,3 +18,4 @@ The created application is configured with the following tools:
 - [Pest Parallel](https://pestphp.com/docs/plugins/parallel)
 - [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 - [LaraStan](https://github.com/nunomaduro/larastan)
+- [Safe PHP](https://github.com/thecodingmachine/safe)
