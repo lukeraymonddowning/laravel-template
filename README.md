@@ -16,6 +16,7 @@ The created application is configured with the following tools:
 
 - [Pest PHP](https://pestphp.com)
 - [Pest Parallel](https://pestphp.com/docs/plugins/parallel)
-- [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+- [Laravel Pint](https://github.com/laravel/pint)
 - [LaraStan](https://github.com/nunomaduro/larastan)
 - [Safe PHP](https://github.com/thecodingmachine/safe)
+- [Tailwind CSS](https://tailwindcss.com)
